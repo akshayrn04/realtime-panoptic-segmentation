@@ -1,4 +1,4 @@
-## Project Description
+## Realtime Panoptic Segmentation
 
 This project implements a Real-Time Object Classification system using Panoptic Segmentation. Built with Facebook's Detectron2 and OpenCV, it utilizes a Feature Pyramid Network (FPN) with a ResNet-50 backbone to provide a complete visual understanding of a live webcam feed.
 
