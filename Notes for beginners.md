@@ -1,4 +1,4 @@
-PANOPTIC SEGMENTATION - PROJECT NOTES
+PANOPTIC SEGMENTATION
 
 What is Panoptic Segmentation?
 ------------------------------
